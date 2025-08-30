@@ -1,0 +1,10 @@
+E:\NVD\C#\TuanDepTraiVai\bin\Debug\TuanDepTraiVai.exe.config
+E:\NVD\C#\TuanDepTraiVai\bin\Debug\TuanDepTraiVai.exe
+E:\NVD\C#\TuanDepTraiVai\bin\Debug\TuanDepTraiVai.pdb
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.csproj.AssemblyReference.cache
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.Form1.resources
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.Properties.Resources.resources
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.csproj.GenerateResource.cache
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.csproj.CoreCompileInputs.cache
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.exe
+E:\NVD\C#\TuanDepTraiVai\obj\Debug\TuanDepTraiVai.pdb
